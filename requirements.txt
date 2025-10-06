@@ -1,0 +1,9 @@
+pdfplumber
+python-pptx
+python-docx
+pandas
+sentence-transformers
+faiss-cpu
+numpy
+fastapi
+uvicorn
